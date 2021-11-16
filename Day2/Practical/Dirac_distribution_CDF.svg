@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 1300 975" height="100%" width="100%" xmlns="http://www.w3.org/2000/svg">
+<desc>Produced by GNUPLOT 4.0 patchlevel 0</desc>
+<g font-size="36" font-family="Times New Roman">
+<text transform="translate(43.01 880)">-0.2</text>
+<text transform="translate(55 763)">0.0</text>
+<text transform="translate(55 647)">0.2</text>
+<text transform="translate(55 530)">0.4</text>
+<text transform="translate(55 413)">0.6</text>
+<text transform="translate(55 296)">0.8</text>
+<text transform="translate(55 180)">1.0</text>
+<text transform="translate(55 63)">1.2</text>
+<text transform="translate(110 934)">-2</text>
+<text transform="translate(385 934)">-1</text>
+<text transform="translate(665 934)">0</text>
+<text transform="translate(940 934)">1</text>
+<text transform="translate(1214 934)">2</text>
+</g><g  stroke="#000" stroke-width="3" fill="none">
+<path d="m125 867h27m1071 0h-27"/>
+<path d="m125 867v-27m0-790v27"/>
+<path opacity=".5" d="m125 750h1098m-549 117v-817" stroke="#888"/>
+<path d="m125 867h1098v-817h-1098v817"/>
+<path d="m1223 867v-817h-1098v817z"/>
+<path stroke="#00f" d="m125 750h549m0-583h549"/>
+<path d="m674 750v-583" stroke="#00f" stroke-dasharray="24,24"/>
+<path d="m976 867v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m-495 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-27m0-790v27m-522 790v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-27m0-790v27m-522 790v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-13m0-804v13m27 804v-13m0-804v13m28 804v-27m0-790v27m-275 61h13m1085 0h-13m-1085-30h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085 175h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-29h27m1071 0h-27m-1071 204h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-30h27m1071 0h-27m-1071 205h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-30h13m1085 0h-13m-1085-29h27m1071 0h-27m-1071 204h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-29h27m1071 0h-27m-1071 204h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-29h27m1071 0h-27m-1071 204h13m1085 0h-13m-1085-29h13m1085 0h-13m-1085-30h13m1085 0h-13m-1085-29h27m1071 0h-27"/>
+</g>
+<g stroke="#00f">
+<circle r="13.5" cy="750" cx="674" fill="#fff"/>
+<circle r="13.5" cy="167" cx="674" fill="#fff"/>
+<circle r="13.5" cy="459" cx="674" fill="#00f"/>
+</g></svg>
